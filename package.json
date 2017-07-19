@@ -1,0 +1,12 @@
+{
+  "name": "web-workflows",
+  "version": "0.0.1",
+  "description": "A project to showcase workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Babatunde Adeyemi",
+  "license": "ISC"
+}
